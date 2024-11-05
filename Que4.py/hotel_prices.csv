@@ -1,0 +1,251 @@
+Hotel Name,Location,Price per Night (€),Rating,Availability
+Andorra Hotel,Andorra la Vella,0,3,Available
+United Arab Emirates Hotel,Abu Dhabi,49,3,Available
+Afghanistan Hotel,Kabul,291,3,Available
+Antigua and Barbuda Hotel,St. John's,0,3,Available
+Anguilla Hotel,The Valley,0,3,Available
+Albania Hotel,Tirana,29,3,Available
+Armenia Hotel,Yerevan,29,3,Available
+Angola Hotel,Luanda,130,3,Available
+Antarctica Hotel,None,0,3,Available
+Argentina Hotel,Buenos Aires,413,3,Available
+American Samoa Hotel,Pago Pago,0,3,Available
+Austria Hotel,Vienna,82,3,Available
+Australia Hotel,Canberra,215,3,Available
+Aruba Hotel,Oranjestad,0,3,Available
+Åland Hotel,Mariehamn,0,3,Available
+Azerbaijan Hotel,Baku,83,3,Available
+Bosnia and Herzegovina Hotel,Sarajevo,45,3,Available
+Barbados Hotel,Bridgetown,2,3,Available
+Bangladesh Hotel,Dhaka,1561,3,Available
+Belgium Hotel,Brussels,104,3,Available
+Burkina Faso Hotel,Ouagadougou,162,3,Available
+Bulgaria Hotel,Sofia,71,3,Available
+Bahrain Hotel,Manama,7,3,Available
+Burundi Hotel,Bujumbura,98,3,Available
+Benin Hotel,Porto-Novo,90,3,Available
+Saint Barthélemy Hotel,Gustavia,0,3,Available
+Bermuda Hotel,Hamilton,0,3,Available
+Brunei Hotel,Bandar Seri Begawan,3,3,Available
+Bolivia Hotel,Sucre,99,3,Available
+Bonaire Hotel,Kralendijk,0,3,Available
+Brazil Hotel,Brasília,2011,3,Available
+Bahamas Hotel,Nassau,3,3,Available
+Bhutan Hotel,Thimphu,6,3,Available
+Bouvet Island Hotel,None,0,3,Available
+Botswana Hotel,Gaborone,20,3,Available
+Belarus Hotel,Minsk,96,3,Available
+Belize Hotel,Belmopan,3,3,Available
+Canada Hotel,Ottawa,336,3,Available
+Cocos [Keeling] Islands Hotel,West Island,0,3,Available
+Democratic Republic of the Congo Hotel,Kinshasa,709,3,Available
+Central African Republic Hotel,Bangui,48,3,Available
+Republic of the Congo Hotel,Brazzaville,30,3,Available
+Switzerland Hotel,Bern,75,3,Available
+Ivory Coast Hotel,Yamoussoukro,210,3,Available
+Cook Islands Hotel,Avarua,0,3,Available
+Chile Hotel,Santiago,167,3,Available
+Cameroon Hotel,Yaoundé,192,3,Available
+China Hotel,Beijing,13300,3,Available
+Colombia Hotel,Bogotá,477,3,Available
+Costa Rica Hotel,San José,45,3,Available
+Cuba Hotel,Havana,114,3,Available
+Cape Verde Hotel,Praia,5,3,Available
+Curacao Hotel,Willemstad,1,3,Available
+Christmas Island Hotel,Flying Fish Cove,0,3,Available
+Cyprus Hotel,Nicosia,11,3,Available
+Czech Republic Hotel,Prague,104,3,Available
+Germany Hotel,Berlin,818,3,Available
+Djibouti Hotel,Djibouti,7,3,Available
+Denmark Hotel,Copenhagen,54,3,Available
+Dominica Hotel,Roseau,0,3,Available
+Dominican Republic Hotel,Santo Domingo,98,3,Available
+Algeria Hotel,Algiers,345,3,Available
+Ecuador Hotel,Quito,147,3,Available
+Estonia Hotel,Tallinn,12,3,Available
+Egypt Hotel,Cairo,804,3,Available
+Western Sahara Hotel,Laâyoune / El Aaiún,2,3,Available
+Eritrea Hotel,Asmara,57,3,Available
+Spain Hotel,Madrid,465,3,Available
+Ethiopia Hotel,Addis Ababa,880,3,Available
+Finland Hotel,Helsinki,52,3,Available
+Fiji Hotel,Suva,8,3,Available
+Falkland Islands Hotel,Stanley,0,3,Available
+Micronesia Hotel,Palikir,1,3,Available
+Faroe Islands Hotel,Tórshavn,0,3,Available
+France Hotel,Paris,647,3,Available
+Gabon Hotel,Libreville,15,3,Available
+United Kingdom Hotel,London,623,3,Available
+Grenada Hotel,St. George's,1,3,Available
+Georgia Hotel,Tbilisi,46,3,Available
+French Guiana Hotel,Cayenne,1,3,Available
+Guernsey Hotel,St Peter Port,0,3,Available
+Ghana Hotel,Accra,243,3,Available
+Gibraltar Hotel,Gibraltar,0,3,Available
+Greenland Hotel,Nuuk,0,3,Available
+Gambia Hotel,Bathurst,15,3,Available
+Guinea Hotel,Conakry,103,3,Available
+Guadeloupe Hotel,Basse-Terre,4,3,Available
+Equatorial Guinea Hotel,Malabo,10,3,Available
+Greece Hotel,Athens,110,3,Available
+South Georgia and the South Sandwich Islands Hotel,Grytviken,0,3,Available
+Guatemala Hotel,Guatemala City,135,3,Available
+Guam Hotel,Hagåtña,1,3,Available
+Guinea-Bissau Hotel,Bissau,15,3,Available
+Guyana Hotel,Georgetown,7,3,Available
+Hong Kong Hotel,Hong Kong,68,3,Available
+Heard Island and McDonald Islands Hotel,None,0,3,Available
+Honduras Hotel,Tegucigalpa,79,3,Available
+Croatia Hotel,Zagreb,44,3,Available
+Haiti Hotel,Port-au-Prince,96,3,Available
+Hungary Hotel,Budapest,99,3,Available
+Indonesia Hotel,Jakarta,2429,3,Available
+Ireland Hotel,Dublin,46,3,Available
+Israel Hotel,None,73,3,Available
+Isle of Man Hotel,Douglas,0,3,Available
+India Hotel,New Delhi,11731,3,Available
+British Indian Ocean Territory Hotel,None,0,3,Available
+Iraq Hotel,Baghdad,296,3,Available
+Iran Hotel,Tehran,769,3,Available
+Iceland Hotel,Reykjavik,3,3,Available
+Italy Hotel,Rome,603,3,Available
+Jersey Hotel,Saint Helier,0,3,Available
+Jamaica Hotel,Kingston,28,3,Available
+Jordan Hotel,Amman,64,3,Available
+Japan Hotel,Tokyo,1272,3,Available
+Kenya Hotel,Nairobi,400,3,Available
+Kyrgyzstan Hotel,Bishkek,57,3,Available
+Cambodia Hotel,Phnom Penh,144,3,Available
+Kiribati Hotel,Tarawa,0,3,Available
+Comoros Hotel,Moroni,7,3,Available
+Saint Kitts and Nevis Hotel,Basseterre,0,3,Available
+North Korea Hotel,Pyongyang,229,3,Available
+South Korea Hotel,Seoul,484,3,Available
+Kuwait Hotel,Kuwait City,27,3,Available
+Cayman Islands Hotel,George Town,0,3,Available
+Kazakhstan Hotel,Astana,153,3,Available
+Laos Hotel,Vientiane,63,3,Available
+Lebanon Hotel,Beirut,41,3,Available
+Saint Lucia Hotel,Castries,1,3,Available
+Liechtenstein Hotel,Vaduz,0,3,Available
+Sri Lanka Hotel,Colombo,215,3,Available
+Liberia Hotel,Monrovia,36,3,Available
+Lesotho Hotel,Maseru,19,3,Available
+Lithuania Hotel,Vilnius,29,3,Available
+Luxembourg Hotel,Luxembourg,4,3,Available
+Latvia Hotel,Riga,22,3,Available
+Libya Hotel,Tripoli,64,3,Available
+Morocco Hotel,Rabat,316,3,Available
+Monaco Hotel,Monaco,0,3,Available
+Moldova Hotel,Chişinău,43,3,Available
+Montenegro Hotel,Podgorica,6,3,Available
+Saint Martin Hotel,Marigot,0,3,Available
+Madagascar Hotel,Antananarivo,212,3,Available
+Marshall Islands Hotel,Majuro,0,3,Available
+Macedonia Hotel,Skopje,20,3,Available
+Mali Hotel,Bamako,137,3,Available
+Myanmar [Burma] Hotel,Naypyitaw,534,3,Available
+Mongolia Hotel,Ulan Bator,30,3,Available
+Macao Hotel,Macao,4,3,Available
+Northern Mariana Islands Hotel,Saipan,0,3,Available
+Martinique Hotel,Fort-de-France,4,3,Available
+Mauritania Hotel,Nouakchott,32,3,Available
+Montserrat Hotel,Plymouth,0,3,Available
+Malta Hotel,Valletta,4,3,Available
+Mauritius Hotel,Port Louis,12,3,Available
+Maldives Hotel,Malé,3,3,Available
+Malawi Hotel,Lilongwe,154,3,Available
+Mexico Hotel,Mexico City,1124,3,Available
+Malaysia Hotel,Kuala Lumpur,282,3,Available
+Mozambique Hotel,Maputo,220,3,Available
+Namibia Hotel,Windhoek,21,3,Available
+New Caledonia Hotel,Noumea,2,3,Available
+Niger Hotel,Niamey,158,3,Available
+Norfolk Island Hotel,Kingston,0,3,Available
+Nigeria Hotel,Abuja,1540,3,Available
+Nicaragua Hotel,Managua,59,3,Available
+Netherlands Hotel,Amsterdam,166,3,Available
+Norway Hotel,Oslo,50,3,Available
+Nepal Hotel,Kathmandu,289,3,Available
+Nauru Hotel,Yaren,0,3,Available
+Niue Hotel,Alofi,0,3,Available
+New Zealand Hotel,Wellington,42,3,Available
+Oman Hotel,Muscat,29,3,Available
+Panama Hotel,Panama City,34,3,Available
+Peru Hotel,Lima,299,3,Available
+French Polynesia Hotel,Papeete,2,3,Available
+Papua New Guinea Hotel,Port Moresby,60,3,Available
+Philippines Hotel,Manila,999,3,Available
+Pakistan Hotel,Islamabad,1844,3,Available
+Poland Hotel,Warsaw,385,3,Available
+Saint Pierre and Miquelon Hotel,Saint-Pierre,0,3,Available
+Pitcairn Islands Hotel,Adamstown,0,3,Available
+Puerto Rico Hotel,San Juan,39,3,Available
+Palestine Hotel,None,38,3,Available
+Portugal Hotel,Lisbon,106,3,Available
+Palau Hotel,Melekeok,0,3,Available
+Paraguay Hotel,Asunción,63,3,Available
+Qatar Hotel,Doha,8,3,Available
+Réunion Hotel,Saint-Denis,7,3,Available
+Romania Hotel,Bucharest,219,3,Available
+Serbia Hotel,Belgrade,73,3,Available
+Russia Hotel,Moscow,1407,3,Available
+Rwanda Hotel,Kigali,110,3,Available
+Saudi Arabia Hotel,Riyadh,257,3,Available
+Solomon Islands Hotel,Honiara,5,3,Available
+Seychelles Hotel,Victoria,0,3,Available
+Sudan Hotel,Khartoum,350,3,Available
+Sweden Hotel,Stockholm,98,3,Available
+Singapore Hotel,Singapore,47,3,Available
+Saint Helena Hotel,Jamestown,0,3,Available
+Slovenia Hotel,Ljubljana,20,3,Available
+Svalbard and Jan Mayen Hotel,Longyearbyen,0,3,Available
+Slovakia Hotel,Bratislava,54,3,Available
+Sierra Leone Hotel,Freetown,52,3,Available
+San Marino Hotel,San Marino,0,3,Available
+Senegal Hotel,Dakar,123,3,Available
+Somalia Hotel,Mogadishu,101,3,Available
+Suriname Hotel,Paramaribo,4,3,Available
+South Sudan Hotel,Juba,82,3,Available
+São Tomé and Príncipe Hotel,São Tomé,1,3,Available
+El Salvador Hotel,San Salvador,60,3,Available
+Sint Maarten Hotel,Philipsburg,0,3,Available
+Syria Hotel,Damascus,221,3,Available
+Swaziland Hotel,Mbabane,13,3,Available
+Turks and Caicos Islands Hotel,Cockburn Town,0,3,Available
+Chad Hotel,N'Djamena,105,3,Available
+French Southern Territories Hotel,Port-aux-Français,0,3,Available
+Togo Hotel,Lomé,65,3,Available
+Thailand Hotel,Bangkok,670,3,Available
+Tajikistan Hotel,Dushanbe,74,3,Available
+Tokelau Hotel,None,0,3,Available
+East Timor Hotel,Dili,11,3,Available
+Turkmenistan Hotel,Ashgabat,49,3,Available
+Tunisia Hotel,Tunis,105,3,Available
+Tonga Hotel,Nuku'alofa,1,3,Available
+Turkey Hotel,Ankara,778,3,Available
+Trinidad and Tobago Hotel,Port of Spain,12,3,Available
+Tuvalu Hotel,Funafuti,0,3,Available
+Taiwan Hotel,Taipei,228,3,Available
+Tanzania Hotel,Dodoma,418,3,Available
+Ukraine Hotel,Kiev,454,3,Available
+Uganda Hotel,Kampala,333,3,Available
+U.S. Minor Outlying Islands Hotel,None,0,3,Available
+United States Hotel,Washington,3102,3,Available
+Uruguay Hotel,Montevideo,34,3,Available
+Uzbekistan Hotel,Tashkent,278,3,Available
+Vatican City Hotel,Vatican City,0,3,Available
+Saint Vincent and the Grenadines Hotel,Kingstown,1,3,Available
+Venezuela Hotel,Caracas,272,3,Available
+British Virgin Islands Hotel,Road Town,0,3,Available
+U.S. Virgin Islands Hotel,Charlotte Amalie,1,3,Available
+Vietnam Hotel,Hanoi,895,3,Available
+Vanuatu Hotel,Port Vila,2,3,Available
+Wallis and Futuna Hotel,Mata-Utu,0,3,Available
+Samoa Hotel,Apia,1,3,Available
+Kosovo Hotel,Pristina,18,3,Available
+Yemen Hotel,Sanaa,234,3,Available
+Mayotte Hotel,Mamoudzou,1,3,Available
+South Africa Hotel,Pretoria,490,3,Available
+Zambia Hotel,Lusaka,134,3,Available
+Zimbabwe Hotel,Harare,116,3,Available
