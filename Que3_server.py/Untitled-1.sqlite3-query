@@ -1,8 +1,0 @@
--- database: ./dbs_admissions.db
-
-SELECT * FROM applicants;
-
--- Delete by name
-DELETE FROM applicants WHERE name = 'james timothy';
-
-
