@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWDdR18Vwz4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel Ogunlusi\\Documents\\Documents\\My Personal Docs\\MY DBS Student Folder\\First Semester Courses & Materials\\B9CY108 ADVANCED PROGRAMMING TECHNIQUES\\CA 1\\Que.2\\FileExtensionInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel Ogunlusi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Samuel Ogunlusi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Samuel Ogunlusi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Samuel Ogunlusi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
