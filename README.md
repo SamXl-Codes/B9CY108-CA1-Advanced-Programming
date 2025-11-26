@@ -214,8 +214,8 @@ CA 1/
 ## External Resources
 
 **Course Materials:**
-- Swati Dongre - B9CY108 Lecture Slides (Weeks 1-10)
-- Swati Dongre - B9CY108 Coding Files (Weeks 1-10)
+- Swati Dongre - B9CY108 Lecture Slides (Weeks 1-9)
+- Swati Dongre - B9CY108 Units & Coding Files (Weeks 1-9)
 
 **Python Official Documentation**
 - Socket Programming: https://docs.python.org/3/library/socket.html
