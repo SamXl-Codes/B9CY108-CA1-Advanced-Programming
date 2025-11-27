@@ -3,7 +3,7 @@
 **Course:** MSc Cyber Security  
 **Module:** B9CY108 Advanced Programming Techniques  
 **Assignment:** CA_ONE_(30%)  
-**Institution:** Dublin Business School  
+**Lecturer Name:** Swati Dongre   
 **Submission Deadline:** December 13, 2025  
 
 ---
@@ -212,6 +212,10 @@ CA 1/
 ---
 
 ## External Resources
+
+**Course Materials:**
+- Swati Dongre - B9CY108 Lecture Slides (Weeks 1-10)
+- Swati Dongre - B9CY108 Coding Files (week1-10)
 
 **Python Official Documentation**
 - Socket Programming: https://docs.python.org/3/library/socket.html
