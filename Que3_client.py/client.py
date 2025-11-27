@@ -2,12 +2,23 @@
 import socket
 import json
 
+def get_input(prompt, max_len):
+    while True:
+        val = input(prompt).strip()
+        if not val:
+            print("Cannot be empty")
+            continue
+        if len(val) > max_len:
+            print(f"Max {max_len} chars")
+            continue
+        return val
+
 def get_application_data():
     print("\nAPPLICATION FORM")
     
-    name = input("Full Name: ").strip()
-    address = input("Address: ").strip()
-    quals = input("Qualifications: ").strip()
+    name = get_input("Full Name: ", 100)
+    address = get_input("Address: ", 200)
+    quals = get_input("Qualifications: ", 500)
     
     # show available courses
     print("\nCourses:")

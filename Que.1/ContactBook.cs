@@ -82,7 +82,9 @@ public class ContactBook
     {
         if (index >= 0 && index < contacts.Count)
         {
-            contacts[index] = new Contact(fn, ln, co, mb, em, bd);
+            // create new Contact triggers validation in property setters
+            Contact updated = new Contact(fn, ln, co, mb, em, bd);
+            contacts[index] = updated;
             Console.WriteLine("Updated");
         }
         else

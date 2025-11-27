@@ -48,6 +48,10 @@ public class Contact
             string clean = value.Replace(" ", "").Replace("-", "");
             if (clean.Length != 9)
                 throw new Exception("Mobile needs 9 digits");
+            if (clean[0] == '0')
+                throw new Exception("Mobile cannot start with zero");
+            if (!clean.All(char.IsDigit))
+                throw new Exception("Mobile must be digits only");
             mobile = value;
         }
     }
